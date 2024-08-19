@@ -25,5 +25,6 @@ Results:
 
 The results of the forecasting model can be seen in the "Data Validation" sheet, where the forecasted values are listed alongside the actual views. The accuracy of the model can be evaluated by comparing these columns.
 
-Conclusion
+Conclusion:
+
 This project provides a practical example of time series forecasting using historical data. The model's performance is validated by comparing its predictions with actual outcomes, making it a valuable tool for understanding and predicting trends in viewership.
